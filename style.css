@@ -1,0 +1,80 @@
+html {
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 1.5rem;
+  text-align: justify;
+}
+
+footer p {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 1rem;
+}
+
+#citation-container {
+  width: 95%;
+  background-color: black;
+  font-style: italic;
+  margin: auto;
+}
+
+#citation-div {
+  width: 60%;
+  margin: auto;
+}
+
+#citation {
+  font-size: 2rem;
+  text-align: center;
+  color: #fff;
+  padding-top: 2rem;
+}
+
+#citation-signature {
+  font-size: 2rem;
+  color: #fff;
+  text-align: right;
+  padding-bottom: 2rem;
+}
+
+#title, #subtitle {
+  text-align: center;
+}
+
+#tribute-info {
+  width: 50%;
+  display: grid;
+  border: 2 solid black;
+  margin: auto;
+}
+
+#img-div {
+  width: 95%;
+  height: auto;
+  background-color: black;
+  overflow: hidden;
+  margin: auto;
+}
+
+#image {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: auto;
+  padding: 3rem 0 1rem 0;
+}
